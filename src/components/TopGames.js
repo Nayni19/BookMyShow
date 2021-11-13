@@ -56,9 +56,9 @@ function TopGames() {
                                 <p className="sec-2-desc">Stade de France: Saint-Denis</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VHVlLCAxMiBPY3Qgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00313270-desuvefmsg-portrait.jpg" alt="card"></img>
-                                <h5 className="sec-2-title">BGMI Tournament - Everynight</h5>
-                                <p className="sec-2-desc">Online (Play From Home)</p>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAyMCBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00316850-segfydkcvl-portrait.jpg" alt="card"></img>
+                                <h5 className="sec-2-title">Midnight Cycling - Trek India</h5>
+                                <p className="sec-2-desc">Meeting Point, Happy Cycle Shop: Mumbai</p>
                             </Col>
                             <Col>
                                 <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNCBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00137986-ejnfrjbbdx-portrait.jpg" alt="card"></img>
