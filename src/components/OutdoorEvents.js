@@ -21,7 +21,7 @@ function OutdoorEvents() {
                                 <p className="sec-2-desc">Hamleys Play, Jio World Drive, BKC</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VHVlLCAxMiBPY3Qgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00022344-ckqcwbqugp-portrait.jpg" alt="card"></img>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNCBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00022344-djncvvtfzy-portrait.jpg" alt="card"></img>
                                 <h5 className="sec-2-title">Mumbai Filmcity Tour</h5>
                                 <p className="sec-2-desc">Dadasaheb Phalke Chitranagri: Mumbai</p>
                             </Col>
@@ -56,7 +56,7 @@ function OutdoorEvents() {
                                 <p className="sec-2-desc">Mystery Rooms: Mumbai</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNCBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00074418-wscrkgrflt-portrait.jpg" alt="card"></img>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-RnJpLCAxOSBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00316453-dzdkshubuk-portrait.jpg" alt="card"></img>
                                 <h5 className="sec-2-title">Heritage Tour of Bombay High Court</h5>
                                 <p className="sec-2-desc">Bombay High Court: Mumbai</p>
                             </Col>

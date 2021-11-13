@@ -53,9 +53,9 @@ function Premieres() {
                                 <p className="sec-3-lang">English</p>
                             </Col>
                             <Col>
-                                <img className="sec-3-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00300013-qlvkmafvwv-portrait.jpg" alt="card"></img>
-                                <h5 className="sec-3-title">The Heist Of The Century</h5>
-                                <p className="sec-3-lang">Spanish</p>
+                                <img className="sec-3-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122532-qcgacjzxdc-portrait.jpg" alt="card"></img>
+                                <h5 className="sec-3-title">Venom: Let There Be Carnage</h5>
+                                <p className="sec-3-lang">English</p>
                             </Col>
                             <Col>
                                 <img className="sec-3-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00311591-cdufynwmlq-portrait.jpg" alt="card"></img>

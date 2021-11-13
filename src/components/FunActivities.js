@@ -46,8 +46,8 @@ function FunActivities() {
                                 <p className="sec-2-desc">Meeting Point- Asiatic Society of Mumbai Town Hall</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VHVlLCAxMiBPY3Qgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00312049-uvgyvbfqgu-portrait.jpg" alt="card"></img>
-                                <h5 className="sec-2-title">Maa Kamkhya Devi Prasad</h5>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAyMCBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00121822-edsvfcyhdd-portrait.jpg" alt="card"></img>
+                                <h5 className="sec-2-title">Trek & Trails - Mumbai Midnight Cycling</h5>
                                 <p className="sec-2-desc">Online</p>
                             </Col>
                             <Col>
@@ -56,7 +56,7 @@ function FunActivities() {
                                 <p className="sec-2-desc">Pawanai Camping & Boating: Lonavala</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VGh1LCAxNCBPY3Qgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00311447-ysajxrumbu-portrait.jpg" alt="card"></img>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-RnJpLCAxOSBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00317162-lrevardvnm-portrait.jpg" alt="card"></img>
                                 <h5 className="sec-2-title">Walk Through The Viewpoints Of Victoria Falls</h5>
                                 <p className="sec-2-desc">Watch on Zoom</p>
                             </Col>

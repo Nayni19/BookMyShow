@@ -21,17 +21,17 @@ function TopGames() {
                                 <p className="sec-2-desc">Online</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VHVlLCAxMiBPY3Qgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00311494-twbhyafsyg-portrait.jpg" alt="card"></img>
-                                <h5 className="sec-2-title">Online Game - Lost Treasure of Sundarbans</h5>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNCBOb3Y%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00315705-vyryrtwynn-portrait.jpg" alt="card"></img>
+                                <h5 className="sec-2-title">Hercules Virtual Marathon - Get Medal by Courier</h5>
                                 <p className="sec-2-desc">Online (Play From Home)</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VHVlLCAxMiBPY3Qgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00311497-aedczxxbgw-portrait.jpg" alt="card"></img>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VHVlLCAxNiBOb3Y%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00316414-dguttrakzw-portrait.jpg" alt="card"></img>
                                 <h5 className="sec-2-title">Online Game - Flight 9032 Murder Mystery</h5>
                                 <p className="sec-2-desc">Online (Play From Home)</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxNiBPY3Qgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00134925-qhhtfuqwds-portrait.jpg" alt="card"></img>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxMyBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00313270-yqmjwrhzdb-portrait.jpg" alt="card"></img>
                                 <h5 className="sec-2-title">Free Fire Solo And Squad (Bermuda)</h5>
                                 <p className="sec-2-desc">Online (Play From Home)</p>
                             </Col>
@@ -61,7 +61,7 @@ function TopGames() {
                                 <p className="sec-2-desc">Online (Play From Home)</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VHVlLCAxMiBPY3Qgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00312550-tjlymmuslz-portrait.jpg" alt="card"></img>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNCBOb3Ygb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00137986-ejnfrjbbdx-portrait.jpg" alt="card"></img>
                                 <h5 className="sec-2-title">BGMI Tournament (Solo & Squad) By VP Gaming</h5>
                                 <p className="sec-2-desc">Online (Play From Home)</p>
                             </Col>

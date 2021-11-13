@@ -21,7 +21,7 @@ function PopularEvents() {
                                 <p className="sec-2-desc">Ballard Estate, Green Gate: Mumbai</p>
                             </Col>
                             <Col>
-                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-TW9uLCAxOCBPY3Qgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00315664-xygfsnkvmq-portrait.jpg" alt="card"></img>
+                                <img className="sec-2-cards" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNCBOb3Y%3D,ots-29,otc-FFFFFF,oy-612,ox-24:oi-discovery-catalog@@icons@@le-social-distancing-202011110401.png,ox-15,oy-15,ow-50/et00317028-csmwswubne-portrait.jpg" alt="card"></img>
                                 <h5 className="sec-2-title">Mondays with Munawar</h5>
                                 <p className="sec-2-desc">Above The Habitat: Mumbai</p>
                             </Col>
