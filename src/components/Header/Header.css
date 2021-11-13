@@ -1,0 +1,30 @@
+.search-box{
+    width: 35rem;
+    height: 2rem;
+}
+.end-con{
+    justify-content: end;
+    margin-left: auto;
+    margin-right: 0;
+    text-align: right;
+}
+.below-nav{
+    padding: 0.5rem 1rem;
+}
+.linktab{
+    margin-right: 0.8rem;
+    text-decoration: none;
+    color: lightgray;
+}
+.linktab:hover{
+    color:white;
+}
+.navigation{
+    font-size: 0.9rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .end-con{
+        display: none;
+    }
+  }

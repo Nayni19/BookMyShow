@@ -1,0 +1,15 @@
+.Slider .carousel-control-next-icon, .Slider .carousel-control-prev-icon{
+    background-color: black;
+    border-radius: 10%;
+    padding: 1.1rem 1rem 0.2rem 2rem;
+    opacity: 50% !important;
+}
+    
+.Slider .carousel-control-next-icon, .Slider .carousel-control-prev-icon:hover{
+    background-color: black;
+    opacity: 50% !important;
+}
+
+.Slider .carousel-control-next, .Slider .carousel-control-prev {
+    width: 0.5% !important;
+}

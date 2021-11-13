@@ -1,0 +1,75 @@
+.footer{
+    padding: 2% 9% 2% 9%;
+    background-color: #313035;
+    color: white;
+}
+.logo-part{
+    background-color: #313035;
+    text-align: center;
+    padding: 0 2%;
+}
+.logo-part hr{
+    background-color: grey;
+}
+.button-col{
+    text-align: right;
+}
+.footer-desc{
+    font-size: 0.9rem;
+    line-height: 0.7rem;
+}
+.footer-title{
+    text-align: left;
+    font-weight: 600;
+    line-height: 0.7rem;
+    display: inline-block;
+}
+.space{
+    margin: 1%;
+    display: inline;
+}
+.footer2{
+    padding: 2% 9% 2% 9%;
+    background-color: #404043;
+    color: white;
+    text-align: center;
+}
+.subtitles{
+    font-size: 0.7rem;
+    color: grey;
+    padding-top: 1%;
+}
+.small-letter h6{
+    color:grey;
+    font-size: 0.8rem;
+    line-height: 0.9rem;
+    padding-bottom: 1%;
+}
+.small-letter p{
+    color:grey;
+    font-size: 0.6rem;
+    line-height: 1.1rem;
+    padding-bottom: 1%;
+}
+.inner-social-icons{
+    display: inline-block;
+    margin: 0 0.4%;
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.copyright{
+    padding: 1% 3% 2% 3%;
+    background-color: #313035;
+    color: grey;
+    font-size: 0.7rem;
+    text-align: center;
+}
+@media only screen and (max-width: 992px) {
+    .complete-footer{
+        display: none;
+    }
+}
