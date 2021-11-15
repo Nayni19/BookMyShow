@@ -15,7 +15,7 @@ function SingleMovieFetch() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
     useEffect(async () => {
         try {
-            const response = await axios.get(`http://localhost:5000/${movid}`);
+            const response = await axios.get(`https://bookmyshow-backend-1.herokuapp.com/${movid}`);
             setSingleData([response.data]);
         } catch (error) {
             console.error(error);

@@ -9,7 +9,7 @@ function AllMoviesFetch() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
     useEffect(async () => {
         try {
-            const response = await axios.get('http://localhost:5000/movies');
+            const response = await axios.get('https://bookmyshow-backend-1.herokuapp.com/movies');
             console.log(response);
             setData(response.data);
         } catch (error) {
